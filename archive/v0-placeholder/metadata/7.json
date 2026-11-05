@@ -1,0 +1,21 @@
+{
+  "name": "Wolf Coin #7",
+  "symbol": "WOLF",
+  "description": "Wolf Coin \u2014 a collectible NFT backed by a fixed amount of XNT locked on-chain. Mint it. Own it. Transfer it. Redeem it.",
+  "image": "https://cdn.jsdelivr.net/gh/x1goose404-ops/wolfcoin-metadata@v1/metadata/coin.png",
+  "external_url": "https://wolfcoin.x1/",
+  "attributes": [
+    {
+      "trait_type": "Denomination",
+      "value": "1 XNT"
+    },
+    {
+      "trait_type": "Serial",
+      "value": 7
+    },
+    {
+      "trait_type": "Backing",
+      "value": "On-chain vault"
+    }
+  ]
+}
